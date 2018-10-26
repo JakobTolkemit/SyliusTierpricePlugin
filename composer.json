@@ -42,8 +42,5 @@
             "Brille24\\SyliusTierPricePlugin\\": "src/",
             "Tests\\Brille24\\SyliusTierPricePlugin\\": "tests/"
         }
-    },
-    "config": {
-        "bin-dir": "bin"
     }
 }
